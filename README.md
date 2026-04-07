@@ -23,14 +23,6 @@ I’m currently building projects in:
 - Machine Learning (ML)
 - Data Analysis
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/karenruthwood/)
-
-## Fun Fact
-
-I love tennis and travel.  45 countries and counting! 
-
 ## Featured Work
 
 ### HelmNet
@@ -46,3 +38,11 @@ I’m building a portfolio that shows how AI can solve real operational, decisio
 ## Tools & Topics
 
 Python • Machine Learning (ML) • Natural Language Processing (NLP) • Retrieval-Augmented Generation (RAG) • Computer Vision • Prompt Engineering • Jupyter • GitHub
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/karenruthwood/)
+
+## Fun Fact
+
+I love tennis and travel.  45 countries and counting! 
